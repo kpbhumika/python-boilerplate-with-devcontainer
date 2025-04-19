@@ -5,3 +5,7 @@ __pycache__/
 .python-version
 # virtualenv
 .venv/
+
+
+# DS_Store macOS files
+.DS_Store
