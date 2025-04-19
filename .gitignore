@@ -1,0 +1,7 @@
+# python exclusions
+__pycache__/
+
+# pyenv
+.python-version
+# virtualenv
+.venv/
